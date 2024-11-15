@@ -1,7 +1,7 @@
 # arduino_r4
 Projects using the new arduino uno r4 wifi.
 
-#Project: Logic Gate Controlled LED with Arduino IoT
+# Project: Logic Gate Controlled LED with Arduino IoT
 Description:
 This project allows you to control the brightness and behavior of an LED using different logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) through the Arduino IoT Cloud. The LED's behavior is controlled based on the values of two boolean inputs (a and b), and the logic gate can be selected through a dashboard. You can also adjust the LED's brightness and turn it on or off through the cloud.
 
